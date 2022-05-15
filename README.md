@@ -1,5 +1,5 @@
 ### Assalamu-Alaikum. I am Raihanul.
-#### I am a Web Develope
+#### I am a Web Developer
 Since October 2021, I have been working on web development personally. I completed some projects so far (like CRUD API, CRUD App, Quiz App, Employee Info Storage App, Country App, Website Template, Backend of Chat App etc.) using Node JS, Express JS, MongoDB(Mongoose), Web Socket, React JS, Angular, MERN Stack, MEAN Stack, HTML, CSS, Bootstrap, Javascript, Typescript etc. I also worked on Multer for file validating and uploading on server, Express Validator for request validation in Node JS, JWT authentication in Node JS, EJS Template Engine, Asynchronous JS, Event Loop, JSON Server, Unit Testing in Node JS, React JS, and Angular etc as well.
 
 
