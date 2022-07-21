@@ -3,7 +3,7 @@
 Since September 19, 2021, I have been working on web development personally. I completed some projects so far (like CRUD API, CRUD App, Quiz App, Employee Info Storage App, Country App, Website Template, Backend of Chat App etc.) using Node JS, Express JS, MongoDB(Mongoose), Web Socket, React JS, Redux, Angular, MERN Stack, MEAN Stack, HTML, CSS, Bootstrap, Javascript, Typescript etc. I also worked on Multer for file validating and uploading on server, Express Validator for request validation in Node JS, JWT authentication in Node JS, EJS Template Engine, Asynchronous JS, Event Loop, JSON Server, Docker, Unit Testing in Node JS, React JS, and Angular etc as well.
 
 
-Skills: Node JS, Express JS, MongoDB(Mongoose), React JS, Angular, MERN, MEAN, JavaScript, TypeScript, HTML, CSS, Bootstrap, LESS, Unit Testing, JSON server, Jquery, VS Code, Deployment on Heroku, Git and Github 
+Skills: Node JS, Express JS, MongoDB(Mongoose), React JS, Redux, Angular, MERN, MEAN, JavaScript, TypeScript, HTML, CSS, Bootstrap, LESS, Unit Testing, JSON server, Docker, Jquery, VS Code, Deployment on Heroku, Git and Github 
 
 - 🔭 I’m currently working on building applications 
 - 🌱 I’m currently learning Web Development as it is an ocean. 
