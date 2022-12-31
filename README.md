@@ -1,5 +1,5 @@
 ### Hi, My name is Raihanul.
-#### I am a Web Developer
+#### I am a web development enthusiast.
 I have been working on web development personally (non-professionally) since September 19, 2021. I completed some projects so far (like Social Media App, Realtime Chat App, CRUD API, CRUD App with deployment on Heroku, Quiz App, Employee Info Storage App, Country App, Website Templates etc.) using Node JS, Express JS, MongoDB, Web Socket, React JS, Redux, Angular, MERN Stack, MEAN Stack, HTML, CSS, Bootstrap, Javascript, Typescript etc. I also worked on Multer for file validating and uploading on server, Express Validator for request validation in Node JS, JWT authorization in Node JS, EJS Template Engine, Docker, Microservices using Node JS, RabbitMQ, API Gateway, Asynchronous JS, Event Loop, JSON Server, Unit Testing in Node JS, React JS, and Angular etc as well.
 
 
